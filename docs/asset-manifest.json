@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WebSerialScannerTest/static/css/main.073c9b0a.css",
+    "main.js": "/WebSerialScannerTest/static/js/main.8ae95bee.js",
+    "static/js/787.28cb0dcd.chunk.js": "/WebSerialScannerTest/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/WebSerialScannerTest/index.html",
+    "main.073c9b0a.css.map": "/WebSerialScannerTest/static/css/main.073c9b0a.css.map",
+    "main.8ae95bee.js.map": "/WebSerialScannerTest/static/js/main.8ae95bee.js.map",
+    "787.28cb0dcd.chunk.js.map": "/WebSerialScannerTest/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8ae95bee.js"
+  ]
+}
